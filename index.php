@@ -8,7 +8,50 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 </head>
 <body>
+    <header>
 
+    </header>
+    <main>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class=" col-12 col-md-5">
+                    <form action="" method="">
+
+                    <div class="mb-3">
+                        <label class="form-label">Nombre</label>
+                        <input type="text" class="form-control" >
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Apellidos</label>
+                        <input type="text" class="form-control" >
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Email</label>
+                        <input type="text" class="form-control" >
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Edad</label>
+                        <input type="text" class="form-control" >
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Descripcion</label>
+                        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Fotografia</label>
+                        <input type="text" class="form-control" >
+                    </div>
+                    
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
 
 
 
